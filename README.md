@@ -1,5 +1,5 @@
 
- # Finova Financial Group: Data Breach Impact Analysis
+ # Finova Financial Group: Data Breach Impact and Fraud Analysis
 
 **Databeauty Tribe Business Challenge, Case 002** | Power BI · Power Query · DAX | Jan 2025 to Aug 2026
 
