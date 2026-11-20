@@ -10,7 +10,9 @@ In August 2026, Finova Financial Group (a fictional Nigerian bank) detected unau
 > **Note:** all data is synthetic, supplied by the challenge organisers. It does not represent real bank customers.
 
 ---
+## Dashboard Preview
 
+![CEO DASHBOARD](IMG/CEO.png)
 ## Table of contents
 1. [Headline findings](#headline-findings)
 2. [Tools and skills](#tools-and-skills)
@@ -144,6 +146,8 @@ Every cleaning step was reconciled before and after.
 | **4. Has activity changed?** | No meaningful change yet. All activity metrics sit inside their pre-incident ranges. Average amount dipped 7% but the median is flat |
 | **5. What to prioritise?** | See [Recommendations](#recommendations) |
 
+![Chief EXECUTIVE Officer Dashboard](IMG/CEO.png)
+
 ### CRO
 
 | Question | Answer |
@@ -154,6 +158,8 @@ Every cleaning step was reconciled before and after.
 | **4. Major hotspots?** | **Retail × Mobile App**: 12 of 71 cases, 1.04% fraud rate vs 0.56% for Retail, ₦838K (20% of losses). North Central shows repeated cases across ATM, POS, Mobile App and Branch (20 cases) |
 | **5. Immediate monitoring?** | 4 confirmed-fraud transactions still Pending for 8 to 19 months (₦201K); 32 successful August transactions flagged but unconfirmed (₦2.47M); 75 customers flagged two or more times (19 three or more; 7 with two or more confirmed frauds) |
 
+![Chief Risk Officer Dashboard](IMG/CRO.png)
+
 ### CFO
 
 | Question | Answer |
@@ -163,6 +169,9 @@ Every cleaning step was reconciled before and after.
 | **3. Regions and branches?** | As CEO Q3 |
 | **4. Actual vs targets?** | Revenue ₦8.36M vs ₦9.04M (-7.4%); transactions 12,000 vs 12,710 (-5.6%); both missed in 20 of 20 months. Fraud cases never exceeded the monthly limit. Profit proxy 29% below target (indicative) |
 | **5. Greatest loss-reduction opportunity?** | Stop flagged transactions before they settle (below) |
+
+
+![Chief Financial Officer Dashboard](IMG/CFO.png)
 
 **The loss-reduction rule, tested on the data**
 
@@ -212,9 +221,6 @@ Pages are arranged by stakeholder question, with headline-style titles.
 | **CFO: Financial Impact** | Q1 to Q5 |
 
 
-**Data note:** the dataset belongs to the challenge organisers. Check their terms before publishing it, and if redistribution is not allowed, describe the schema and link to the challenge instead.
-
----
 
 ## Author
 
